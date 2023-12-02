@@ -1,5 +1,6 @@
 # File Transfer Application
 This implementation provides a hands-on experience with TLS, showcasing how it can be used to secure a simple file transfer application. It demonstrates the key concepts of network security, including secure socket creation, certificate-based encryption, and secure data transmission.
+
 ### Overview of the TLS-Enabled File Transfer Application
 
 **1. Application Structure**
